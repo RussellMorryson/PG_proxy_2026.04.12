@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/admin/Desktop/pg_proxy/build_v1.0/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

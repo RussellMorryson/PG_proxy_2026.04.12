@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wl,--dependency-file=CMakeFiles/pg_proxy.dir/link.d CMakeFiles/pg_proxy.dir/main.cpp.o -o pg_proxy
