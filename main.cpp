@@ -21,7 +21,7 @@
     postgresql.conf: port = 5432 -> port = 5433
 */
 
-#define LISTEN_PORT 5432        // Порт для входящих входящих в прокси соединений
+#define LISTEN_PORT 5432        // Порт для входящих в прокси соединений
 #define DB_PORT 5433            // Порт для соединения с PostgreSQL
 #define DB_HOST "127.0.0.1"     // Локальный хост, где находится PostgreSQL
 #define BUFFER_SIZE 8192        // Размер буфера для чтения/записи данных
